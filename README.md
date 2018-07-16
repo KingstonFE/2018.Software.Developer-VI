@@ -5,15 +5,15 @@
 
 ##### 原始需求
 1. 請建置一套Web Site 的管理系統
-2. 報表顯示每一台伺服器中被建置那些系統
+2. 須建立報表，顯示每一台伺服器中被建置那些系統
 3. 該系統必須有新、珊、修、查基本功能
 
 # Skill Requirement
 > 環境
 - 請將開發之系統，佈署至Micrsoft Azure (可免費使用30天)
-- 請將程式碼透過Visual Studio Team Service進行版控 (可免費使用)
+- 請將程式碼透過Visual Studio Team Service進行版控 (可免費使用)，使用Git
 > 技術
-- Web : 請使用ASP.Net Core 2.0進行開發
+- Web : 請使用ASP.Net Core 2.0進行開發，前端不限
 - DataBase : MS SQL
 
 # Acceptance Criteria
